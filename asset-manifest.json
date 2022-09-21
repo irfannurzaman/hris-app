@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hris-app/static/css/main.9ed29284.css",
-    "main.js": "/hris-app/static/js/main.8fb838ad.js",
+    "main.css": "/hris-app/static/css/main.e50602e5.css",
+    "main.js": "/hris-app/static/js/main.92e49aeb.js",
     "static/js/787.d18e0f64.chunk.js": "/hris-app/static/js/787.d18e0f64.chunk.js",
     "index.html": "/hris-app/index.html",
-    "main.9ed29284.css.map": "/hris-app/static/css/main.9ed29284.css.map",
-    "main.8fb838ad.js.map": "/hris-app/static/js/main.8fb838ad.js.map",
+    "main.e50602e5.css.map": "/hris-app/static/css/main.e50602e5.css.map",
+    "main.92e49aeb.js.map": "/hris-app/static/js/main.92e49aeb.js.map",
     "787.d18e0f64.chunk.js.map": "/hris-app/static/js/787.d18e0f64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ed29284.css",
-    "static/js/main.8fb838ad.js"
+    "static/css/main.e50602e5.css",
+    "static/js/main.92e49aeb.js"
   ]
 }
